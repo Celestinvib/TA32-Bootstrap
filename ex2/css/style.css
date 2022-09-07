@@ -1,0 +1,22 @@
+body {
+background-color: gainsboro;
+}
+
+h2,
+i {
+    color: dodgerblue;
+}
+
+i {
+    font-size: 2.5em;
+}
+
+h2 {
+    padding: 25px 0 15px 0;
+}
+
+input,
+textarea {
+    width:90%;
+    margin-top: 15px;   
+}

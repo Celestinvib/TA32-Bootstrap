@@ -1,0 +1,45 @@
+body {
+  background-image: url("../img/background.jpg");
+}
+
+form {
+  background-color: white;
+}
+
+.login-form {
+  font-size: 15px;
+}
+
+.login-form form {
+  margin-bottom: 15px;
+  background: white;
+  color: gray;
+}
+
+
+.login-form form div div:nth-child(1) { 
+  padding: 10px 20px;
+}
+.login-form form div div:nth-child(2) { 
+  padding-right: 30px;
+}
+
+.login-form  #lock {
+font-size: 3.2em;
+font-weight: bold;
+}
+
+#form-sub-section {
+  background-color: silver;
+}
+
+#form-sub-section input {
+  margin: 10px;
+  width:97%;
+}
+
+#form-sub-section input[type=submit]
+ {
+   background-color: aquamarine;
+   color:black;
+}
